@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Sathyabalan 👋
 
 🎓 CSE (Artificial Intelligence & Machine Learning) Student
