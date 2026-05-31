@@ -103,7 +103,7 @@ To build strong software development skills, contribute to impactful projects, a
 
 Interested in my skills, certifications, projects and academic background?
 
-👉 [View Resume](./@BALA_RESUME.pdf)
+👉 [View Resume](./@BALA_RESUME print.pdf)
 
 ---
 ⭐ Thanks for visiting my profile!
