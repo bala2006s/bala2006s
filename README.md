@@ -80,23 +80,15 @@ Department of CSE (AI & ML)
 
 ---
 
-## 🌱 Currently Learning
+## 🔨 Currently Learning
 
-- Advanced Java
-- Full Stack Development
-- Artificial Intelligence & Machine Learning
-- Cloud Technologies
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bala2006s&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bala2006s&layout=compact)
+- Problem Solving
+- Project Development
+- ServiceNow Administration (CSA)
+- Open Source Practices
+- Emerging Technologies
 
 ---
-
 ## 🎯 Career Goal
 
 To build strong software development skills, contribute to impactful projects, and grow as an AI & ML professional while continuously learning new technologies.
