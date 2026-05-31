@@ -1,39 +1,57 @@
-# Hi, I'm Bala 👋
+<img src="bala.jpg" width="180" align="right" alt="Profile Photo">
 
-🎓 B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+# Hi, I'm Sathyabalan 👋
 
-## 🚀 About Me
+🎓 CSE (Artificial Intelligence & Machine Learning) Student
 
-I am an enthusiastic AI & ML student with a strong interest in software development, web technologies, and problem-solving. I enjoy building projects, exploring new technologies, and continuously enhancing my technical skills.
+### About Me
+
+I am a passionate AI & ML student who enjoys building web applications, solving programming problems, and exploring emerging technologies. I continuously improve my technical skills through projects, certifications, and hands-on practice.
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
+
+### Programming
+- Java
+- Python
+- C
 
 ### Web Development
-- HTML5
-- CSS3
-- Bootstrap 5
+- HTML
+- CSS
+- Bootstrap
 - JavaScript
-
-### Programming Languages
-- Core Java
 
 ### Database
 - SQL
 
-### Tools & Platforms
+### Core Concepts
+- Data Structures
+- Object-Oriented Programming
+
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
+- Microsoft Azure Fundamentals
 
 ---
 
-## 📂 Projects
+## 📜 Certifications
+
+- Microsoft Azure Fundamentals (AZ-900)
+- Cloud Computing (NPTEL)
+- Full Stack Development
+- Internship in Python for LLM Development
+
+---
+
+## 🚀 Featured Project
 
 ### CTS Digital Nurture 5.0 Upskilling Solutions
 
-A collection of CTS practice problems and solutions developed with:
+A collection of practice problems and solutions developed with:
 
 - HTML
 - CSS
@@ -42,24 +60,23 @@ A collection of CTS practice problems and solutions developed with:
 - Core Java
 - SQL
 
-Focused on strengthening programming, database, and web development skills.
+Focused on strengthening problem-solving, programming, and web development skills.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievement
 
-- 🥉 Secured 3rd Place in a Presentation Competition
-- Department of CSE (AI & ML)
-- K. Ramakrishnan College of Engineering
+🥉 Secured 3rd Place in a Presentation Competition  
+Department of CSE (AI & ML)
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 - Advanced Java
-- Data Structures & Algorithms
 - Full Stack Development
 - Artificial Intelligence & Machine Learning
+- Cloud Technologies
 
 ---
 
@@ -71,13 +88,18 @@ Focused on strengthening programming, database, and web development skills.
 
 ---
 
-## 🌱 Goals
+## 🎯 Career Goal
 
-- Build impactful software projects
-- Strengthen problem-solving skills
-- Contribute to open-source projects
-- Start a successful career in software engineering
+To build strong software development skills, contribute to impactful projects, and grow as an AI & ML professional while continuously learning new technologies.
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🤝 Connect With Me
+
+📧 Email: sathiyabalan8257@gmail.com
+
+🔗 LinkedIn: Add your LinkedIn profile link here
+
+---
+
+⭐ Thanks for visiting my profile!
