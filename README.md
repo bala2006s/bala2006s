@@ -20,9 +20,9 @@ I am a passionate AI & ML student who enjoys building web applications, solving 
 ### Web Development
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
-
+- Bootstrap
+  
 ### Database
 - SQL
 
@@ -98,8 +98,14 @@ To build strong software development skills, contribute to impactful projects, a
 
 📧 Email: sathiyabalan8257@gmail.com
 
-🔗 LinkedIn: Add your LinkedIn profile link here
+🔗 LinkedIn: https://www.linkedin.com/in/sathyabalan8257g/
 
 ---
+## 📄 Resume
 
+Interested in my skills, certifications, projects and academic background?
+
+👉 [View Resume](./resume/@BALA_RESUME.pdf)
+
+---
 ⭐ Thanks for visiting my profile!
