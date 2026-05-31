@@ -1,4 +1,4 @@
-<img src="bala.jpg" width="180" align="right" alt="Profile Photo">
+
 
 # Hi, I'm Sathyabalan 👋
 
