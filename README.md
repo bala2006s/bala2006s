@@ -1,4 +1,8 @@
-# Hi, I'm Sathyabalan 👋
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
+# Hi, 👋
 
 🎓 CSE (Artificial Intelligence & Machine Learning) Student
 
