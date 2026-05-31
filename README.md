@@ -47,17 +47,28 @@ I am a passionate AI & ML student who enjoys building web applications, solving 
 
 ## 🚀 Featured Project
 
-### CTS Digital Nurture 5.0 Upskilling Solutions
+### 🤖 LLM Development Internship Project
 
-A collection of practice problems and solutions developed with:
+Developed and implemented Generative AI applications using Python, Streamlit, LangChain, Hugging Face Transformers, and PyTorch.
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- Core Java
-- SQL
+#### Key Highlights
+- Built an AI Research Assistant capable of answering user queries using Large Language Models (LLMs).
+- Integrated Hugging Face models including GPT-Neo and Llama models for text generation.
+- Developed a Text-to-Image Generation system using Stable Diffusion and OpenJourney models.
+- Implemented conversational interfaces with Streamlit for interactive user experiences.
+- Explored LLM Fine-Tuning techniques using custom datasets and Hugging Face Trainer API.
+- Worked with Prompt Engineering, LangChain workflows, and model deployment concepts.
 
+#### Technologies Used
+- Python
+- Streamlit
+- LangChain
+- Hugging Face Transformers
+- PyTorch
+- Stable Diffusion
+- Generative AI
+- Large Language Models (LLMs)
+  
 Focused on strengthening problem-solving, programming, and web development skills.
 
 ---
