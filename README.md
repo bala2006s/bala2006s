@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Bala 👋
 
-<!--
-**bala2006s/bala2006s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an enthusiastic AI & ML student with a strong interest in software development, web technologies, and problem-solving. I enjoy building projects, exploring new technologies, and continuously enhancing my technical skills.
+
+---
+
+## 💻 Skills
+
+### Web Development
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+### Programming Languages
+- Core Java
+
+### Database
+- SQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Projects
+
+### CTS Digital Nurture 5.0 Upskilling Solutions
+
+A collection of CTS practice problems and solutions developed with:
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Core Java
+- SQL
+
+Focused on strengthening programming, database, and web development skills.
+
+---
+
+## 🏆 Achievements
+
+- 🥉 Secured 3rd Place in a Presentation Competition
+- Department of CSE (AI & ML)
+- K. Ramakrishnan College of Engineering
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Data Structures & Algorithms
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bala2006s&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bala2006s&layout=compact)
+
+---
+
+## 🌱 Goals
+
+- Build impactful software projects
+- Strengthen problem-solving skills
+- Contribute to open-source projects
+- Start a successful career in software engineering
+
+---
+
+⭐ Thank you for visiting my profile!
